@@ -41,6 +41,10 @@ The script follows a simple 3-step path: **Take in User Details → Clean & Chec
 * **Storage:** Saves failed attempts into a separate list (`failed_registrations`).
 * **Information Saved:** Stores the user's details along with the exact reason why they were rejected (like `"Duplicate email"` or `"Invalid user data"`).
 
+
+<img width="763" height="312" alt="Screenshot 2026-08-14 084325" src="https://github.com/user-attachments/assets/b70e1b86-3813-431c-be95-b8194d989989" />
+
+
 ---
 
 ## ⚡ Skills & Tools Used
