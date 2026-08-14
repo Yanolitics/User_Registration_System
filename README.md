@@ -47,11 +47,12 @@ The script follows a simple 3-step path: **Take in User Details → Clean & Chec
 
 ---
 
-## ⚡ Skills & Tools Used
+## ⚡ Tech Stack & Core Concepts Demonstrated
 
 * **Language:** Python 3
-* **Key Concepts:** Cleaning data, enforcing logic rules, checking for duplicate entries, and keeping error logs.
-* **Data Structures:** Lists and Dictionaries.
+* **Core Paradigms:** Functional Decomposition, Modular Architecture, Procedural Orchestration.
+* **Data Engineering Concepts:** Ingestion Pipeline Design, Input Sanitization, Schema Standardization, Short-Circuit Evaluation (`any()`), and Audit Logging / Dead-Letter Quarantining.
+* **Data Structures:** Dictionaries, List Collections, and Generator Expressions.
 
 ---
 
